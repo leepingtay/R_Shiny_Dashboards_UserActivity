@@ -1,5 +1,8 @@
-### R_Shiny_Dashboard_UserActivity
+### R Shiny Dashboard - Scratch Users Activity
 Created an interactive R Shiny Dashboard with exploratory data analysis and data visualization on Scratch User Activity.
+
+### Link to R Shiny Dashboard on Scratch Users Activity
+https://leepingtay.shinyapps.io/RshinyProj/
 
 #### Source of dataset
 Data were obtained from the public data recorded by the Scratch website during the period 2007 to 2012. 
